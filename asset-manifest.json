@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/epictrave/cnn10-transcript/static/css/main.5f361e03.chunk.css",
-    "main.js": "/epictrave/cnn10-transcript/static/js/main.40d519a3.chunk.js",
-    "main.js.map": "/epictrave/cnn10-transcript/static/js/main.40d519a3.chunk.js.map",
-    "runtime-main.js": "/epictrave/cnn10-transcript/static/js/runtime-main.7b036149.js",
-    "runtime-main.js.map": "/epictrave/cnn10-transcript/static/js/runtime-main.7b036149.js.map",
-    "static/js/2.45ddcb5b.chunk.js": "/epictrave/cnn10-transcript/static/js/2.45ddcb5b.chunk.js",
-    "static/js/2.45ddcb5b.chunk.js.map": "/epictrave/cnn10-transcript/static/js/2.45ddcb5b.chunk.js.map",
-    "index.html": "/epictrave/cnn10-transcript/index.html",
-    "precache-manifest.436f134a4bf9bbdfe960054760d57189.js": "/epictrave/cnn10-transcript/precache-manifest.436f134a4bf9bbdfe960054760d57189.js",
-    "service-worker.js": "/epictrave/cnn10-transcript/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/epictrave/cnn10-transcript/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.45ddcb5b.chunk.js.LICENSE.txt": "/epictrave/cnn10-transcript/static/js/2.45ddcb5b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/epictrave/cnn10-transcript/static/media/logo.5d5d9eef.svg"
+    "main.css": "/cnn10-transcript/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cnn10-transcript/static/js/main.80310b0f.chunk.js",
+    "main.js.map": "/cnn10-transcript/static/js/main.80310b0f.chunk.js.map",
+    "runtime-main.js": "/cnn10-transcript/static/js/runtime-main.5cc632da.js",
+    "runtime-main.js.map": "/cnn10-transcript/static/js/runtime-main.5cc632da.js.map",
+    "static/js/2.59a5f576.chunk.js": "/cnn10-transcript/static/js/2.59a5f576.chunk.js",
+    "static/js/2.59a5f576.chunk.js.map": "/cnn10-transcript/static/js/2.59a5f576.chunk.js.map",
+    "index.html": "/cnn10-transcript/index.html",
+    "precache-manifest.27514ce0c63c4c9c653ddee889c2f6b2.js": "/cnn10-transcript/precache-manifest.27514ce0c63c4c9c653ddee889c2f6b2.js",
+    "service-worker.js": "/cnn10-transcript/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cnn10-transcript/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.59a5f576.chunk.js.LICENSE.txt": "/cnn10-transcript/static/js/2.59a5f576.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cnn10-transcript/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b036149.js",
-    "static/js/2.45ddcb5b.chunk.js",
+    "static/js/runtime-main.5cc632da.js",
+    "static/js/2.59a5f576.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.40d519a3.chunk.js"
+    "static/js/main.80310b0f.chunk.js"
   ]
 }
